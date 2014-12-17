@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2013\Projects\Kovaluk\Project kurs 2\testClient\testClient\bin\Debug\testClient.exe.config
+D:\Documents\Visual Studio 2013\Projects\Kovaluk\Project kurs 2\testClient\testClient\bin\Debug\testClient.exe
+D:\Documents\Visual Studio 2013\Projects\Kovaluk\Project kurs 2\testClient\testClient\bin\Debug\testClient.pdb
+D:\Documents\Visual Studio 2013\Projects\Kovaluk\Project kurs 2\testClient\testClient\obj\Debug\testClient.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Kovaluk\Project kurs 2\testClient\testClient\obj\Debug\testClient.exe
+D:\Documents\Visual Studio 2013\Projects\Kovaluk\Project kurs 2\testClient\testClient\obj\Debug\testClient.pdb
